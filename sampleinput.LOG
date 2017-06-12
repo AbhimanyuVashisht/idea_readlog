@@ -1,0 +1,351 @@
+
+MSCi      MSS01                     2017-06-06  10:33:50
+
+MSC OBSERVATION REPORT FROM OMU-1               
+
+REPORTING TIME      : 2017-06-06  10:33:50.07
+REPORT NUMBER       : 111492
+TRACED IMSI         : 404040007254688    
+TRACE REFERENCE     : 05325
+OMC ID              :                   
+TRACE TYPE          : ALL, BASIC, UNPRIOR
+TRACE TYPE USED     : ALL, BASIC, UNPRIOR
+START TIME          : 2017-06-06  10:33:20.15
+END TIME            : 2017-06-06  10:33:49.77
+RECORDING ENTITY    : 919891730001      
+REPORT REASON       : EVENT
+
+INVOKING EVENT      : SUBS(B) 
+
+CALL ID             : 250DH-00011E9EH-401DH-4133H-0FF2H-6EH-4133H-02DAH-B4H
+CALL START          : 2017-06-06  10:33:17.90  CALL PHASE : RELEASE
+SIGNALLING COMPLETE : 2017-06-06  10:33:20.15  STAT STATE : IDLE
+ANSWER              : 2017-06-06  10:33:29.21  CLEAR CODE : 0000H
+CHARGING END        : 2017-06-06  10:33:49.77  CLEAR INFO : AIF_SS 0001H 0B2FH
+PAGING TIME         : 330                      CLEAR PART : SUB B
+EXT CLEAR CODE      : 0010H                    SIGNALLING : MS CC
+
+MGW TRACE           : OK
+
+EXTERNAL FORWARDING COUNTER : 0
+
+CALLING NUMBER      : I  919891005178                    
+CALLED NUMBER       : I  919911005325                    
+OUT PULSED NUMBER   : I  919911005325                    
+CONNECTED NUMBER    : I  919911005325                    
+ROAMING NUMBER      : N  9891732588                      
+ADDRESS NUMBER      : U  09911005325                     
+IN SERVICE KEY      :    1         :OK  
+
+
+CARRIER SELECTION   : PRESUB
+
+
+OBJECT                SUBSCRIBER A              SUBSCRIBER B (TRACED)
+
+  IMSI              : 404043001011753           404040007254688 
+  IMEI              : 9115101501793178          3589940735276601
+  RADIO SYSTEM      : UMTS                      UMTS
+  CGR/BSC/PCM-TSL   :     /    /    -               /    /    -
+  MCC/MNC           : 404 /04                   404 /04  
+  LAC/CI/CELL BAND  : 01001/08168/WCDMA         01001/40986/WCDMA
+  RNC ID            : 00001                     00001
+  MGW INDEX         : 84                        84
+  MGW NAME          : MSS01MGW04P01V01          MSS01MGW04P01V01
+  BNC CHAR          : IPv4                      IPv4
+  UPD INDEX/NAME    : 51 /RNC01POOL             51 /RNC01POOL
+  SPTD CODEC LIST   : UMTS AMR   / UMTS AMR 2   UMTS AMR   / UMTS AMR 2
+                      UMTS AMR WB               UMTS AMR WB
+  RAB ID            : 1                         1
+  MAX BIT RATE      : 12.2                      12.2
+  GRTD BIT RATE     : 4.75                      4.75
+  A LOCAL IP ADDRESS: 10.244.113.81
+  B LOCAL IP ADDRESS:                           10.244.113.113
+  PORT              : 35316                     44498
+  TDM TERMID        :                           
+  NORMAL CTX ID     : 520897878                 520897878
+  USED CODEC        : UMTS AMR 2                UMTS AMR 2
+  MODES LIST        : 4.75                      4.75
+                      5.90                      5.90
+                      7.95                      7.95
+                      12.20                     12.20
+
+  LOCATION NUMBER   : 919891730001              919891730001    
+  CHANNEL RATE      : FRP / HFR1 /              FRP / HFR1 /    
+  SPEECH VERSION    : FR3                       FR3      
+  PRIORITY          : 
+  MS CLASSMARK      : 
+  IP ADDRESS        : 10.223.0.35               10.223.0.90
+  PORT              : 65214                     65338
+  CTM TT CAPABILITY : NO                        NO
+
+ECHO CANCELLING PARAMETERS
+  RECEIVED IEC / OEC     : INCLUDED / INCLUDED
+  SENT IEC / OEC         : INCLUDED / INCLUDED
+
+END OF REPORT
+
+
+
+MSCi      MSS01                     2017-06-06  10:33:50
+
+MSC OBSERVATION REPORT FROM OMU-1               
+
+REPORTING TIME      : 2017-06-06  10:33:50.07
+REPORT NUMBER       : 111492
+TRACED IMSI         : 404040007254688    
+TRACE REFERENCE     : 05325
+OMC ID              :                   
+TRACE TYPE          : ALL, BASIC, UNPRIOR
+TRACE TYPE USED     : ALL, BASIC, UNPRIOR
+START TIME          : 2017-06-06  10:33:20.15
+END TIME            : 2017-06-06  10:33:49.77
+RECORDING ENTITY    : 919891730001      
+REPORT REASON       : EVENT
+
+INVOKING EVENT      : SUBS(B) 
+
+CALL ID             : 250DH-00011E9EH-401DH-4133H-0FF2H-6EH-4133H-02DAH-B4H
+CALL START          : 2017-06-06  10:33:17.90  CALL PHASE : RELEASE
+SIGNALLING COMPLETE : 2017-06-06  10:33:20.15  STAT STATE : IDLE
+ANSWER              : 2017-06-06  10:33:29.21  CLEAR CODE : 0000H
+CHARGING END        : 2017-06-06  10:33:49.77  CLEAR INFO : AIF_SS 0001H 0B2FH
+PAGING TIME         : 330                      CLEAR PART : SUB B
+EXT CLEAR CODE      : 0010H                    SIGNALLING : MS CC
+
+MGW TRACE           : OK
+
+EXTERNAL FORWARDING COUNTER : 0
+
+CALLING NUMBER      : I  919891005178                    
+CALLED NUMBER       : I  919911005325                    
+OUT PULSED NUMBER   : I  919911005325                    
+CONNECTED NUMBER    : I  919911005325                    
+ROAMING NUMBER      : N  9891732588                      
+ADDRESS NUMBER      : U  09911005325                     
+IN SERVICE KEY      :    1         :OK  
+
+
+CARRIER SELECTION   : PRESUB
+
+
+OBJECT                SUBSCRIBER A              SUBSCRIBER B (TRACED)
+
+  IMSI              : 404043001011753           404040007254688 
+  IMEI              : 9115101501793178          3589940735276601
+  RADIO SYSTEM      : UMTS                      UMTS
+  CGR/BSC/PCM-TSL   :     /    /    -               /    /    -
+  MCC/MNC           : 404 /04                   404 /04  
+  LAC/CI/CELL BAND  : 01001/08168/WCDMA         01001/40986/WCDMA
+  RNC ID            : 00001                     00001
+  MGW INDEX         : 84                        84
+  MGW NAME          : MSS01MGW04P01V01          MSS01MGW04P01V01
+  BNC CHAR          : IPv4                      IPv4
+  UPD INDEX/NAME    : 51 /RNC01POOL             51 /RNC01POOL
+  SPTD CODEC LIST   : UMTS AMR   / UMTS AMR 2   UMTS AMR   / UMTS AMR 2
+                      UMTS AMR WB               UMTS AMR WB
+  RAB ID            : 1                         1
+  MAX BIT RATE      : 12.2                      12.2
+  GRTD BIT RATE     : 4.75                      4.75
+  A LOCAL IP ADDRESS: 10.244.113.81
+  B LOCAL IP ADDRESS:                           10.244.113.113
+  PORT              : 35316                     44498
+  TDM TERMID        :                           
+  NORMAL CTX ID     : 520897878                 520897878
+  USED CODEC        : UMTS AMR 2                UMTS AMR 2
+  MODES LIST        : 4.75                      4.75
+                      5.90                      5.90
+                      7.95                      7.95
+                      12.20                     12.20
+
+  LOCATION NUMBER   : 919891730001              919891730001    
+  CHANNEL RATE      : FRP / HFR1 /              FRP / HFR1 /    
+  SPEECH VERSION    : FR3                       FR3      
+  PRIORITY          : 
+  MS CLASSMARK      : 
+  IP ADDRESS        : 10.223.0.35               10.223.0.90
+  PORT              : 65214                     65338
+  CTM TT CAPABILITY : NO                        NO
+
+ECHO CANCELLING PARAMETERS
+  RECEIVED IEC / OEC     : INCLUDED / INCLUDED
+  SENT IEC / OEC         : INCLUDED / INCLUDED
+
+END OF REPORT
+
+
+
+MSCi      MSS01                     2017-06-06  10:33:50
+
+MSC OBSERVATION REPORT FROM OMU-1               
+
+REPORTING TIME      : 2017-06-06  10:33:50.07
+REPORT NUMBER       : 111492
+TRACED IMSI         : 404040007254690    
+TRACE REFERENCE     : 05325
+OMC ID              :                   
+TRACE TYPE          : ALL, BASIC, UNPRIOR
+TRACE TYPE USED     : ALL, BASIC, UNPRIOR
+START TIME          : 2017-06-06  10:33:20.15
+END TIME            : 2017-06-06  10:33:49.77
+RECORDING ENTITY    : 919891730001      
+REPORT REASON       : EVENT
+
+INVOKING EVENT      : SUBS(B) 
+
+CALL ID             : 250DH-00011E9EH-401DH-4133H-0FF2H-6EH-4133H-02DAH-B4H
+CALL START          : 2017-06-06  10:33:17.90  CALL PHASE : RELEASE
+SIGNALLING COMPLETE : 2017-06-06  10:33:20.15  STAT STATE : IDLE
+ANSWER              : 2017-06-06  10:33:29.21  CLEAR CODE : 0000H
+CHARGING END        : 2017-06-06  10:33:49.77  CLEAR INFO : AIF_SS 0001H 0B2FH
+PAGING TIME         : 330                      CLEAR PART : SUB B
+EXT CLEAR CODE      : 0010H                    SIGNALLING : MS CC
+
+MGW TRACE           : OK
+
+EXTERNAL FORWARDING COUNTER : 0
+
+CALLING NUMBER      : I  919891005178                    
+CALLED NUMBER       : I  919911005325                    
+OUT PULSED NUMBER   : I  919911005325                    
+CONNECTED NUMBER    : I  919911005325                    
+ROAMING NUMBER      : N  9891732588                      
+ADDRESS NUMBER      : U  09911005325                     
+IN SERVICE KEY      :    1         :OK  
+
+
+CARRIER SELECTION   : PRESUB
+
+
+OBJECT                SUBSCRIBER A              SUBSCRIBER B (TRACED)
+
+  IMSI              : 404043001011753           404040007254688 
+  IMEI              : 9115101501793178          3589940735276601
+  RADIO SYSTEM      : UMTS                      UMTS
+  CGR/BSC/PCM-TSL   :     /    /    -               /    /    -
+  MCC/MNC           : 404 /04                   404 /04  
+  LAC/CI/CELL BAND  : 01001/08168/WCDMA         01001/40986/WCDMA
+  RNC ID            : 00001                     00001
+  MGW INDEX         : 84                        84
+  MGW NAME          : MSS01MGW04P01V01          MSS01MGW04P01V01
+  BNC CHAR          : IPv4                      IPv4
+  UPD INDEX/NAME    : 51 /RNC01POOL             51 /RNC01POOL
+  SPTD CODEC LIST   : UMTS AMR   / UMTS AMR 2   UMTS AMR   / UMTS AMR 2
+                      UMTS AMR WB               UMTS AMR WB
+  RAB ID            : 1                         1
+  MAX BIT RATE      : 12.2                      12.2
+  GRTD BIT RATE     : 4.75                      4.75
+  A LOCAL IP ADDRESS: 10.244.113.81
+  B LOCAL IP ADDRESS:                           10.244.113.113
+  PORT              : 35316                     44498
+  TDM TERMID        :                           
+  NORMAL CTX ID     : 520897878                 520897878
+  USED CODEC        : UMTS AMR 2                UMTS AMR 2
+  MODES LIST        : 4.75                      4.75
+                      5.90                      5.90
+                      7.95                      7.95
+                      12.20                     12.20
+
+  LOCATION NUMBER   : 919891730001              919891730001    
+  CHANNEL RATE      : FRP / HFR1 /              FRP / HFR1 /    
+  SPEECH VERSION    : FR3                       FR3      
+  PRIORITY          : 
+  MS CLASSMARK      : 
+  IP ADDRESS        : 10.223.0.35               10.223.0.90
+  PORT              : 65214                     65338
+  CTM TT CAPABILITY : NO                        NO
+
+ECHO CANCELLING PARAMETERS
+  RECEIVED IEC / OEC     : INCLUDED / INCLUDED
+  SENT IEC / OEC         : INCLUDED / INCLUDED
+
+END OF REPORT
+
+
+
+MSCi      MSS01                     2017-06-06  10:33:50
+
+MSC OBSERVATION REPORT FROM OMU-1               
+
+REPORTING TIME      : 2017-06-06  10:33:50.07
+REPORT NUMBER       : 111492
+TRACED IMSI         : 404040007254689
+TRACE REFERENCE     : 05325
+OMC ID              :                   
+TRACE TYPE          : ALL, BASIC, UNPRIOR
+TRACE TYPE USED     : ALL, BASIC, UNPRIOR
+START TIME          : 2017-06-06  10:33:20.15
+END TIME            : 2017-06-06  10:33:49.77
+RECORDING ENTITY    : 919891730001      
+REPORT REASON       : EVENT
+
+INVOKING EVENT      : SUBS(B) 
+
+CALL ID             : 250DH-00011E9EH-401DH-4133H-0FF2H-6EH-4133H-02DAH-B4H
+CALL START          : 2017-06-06  10:33:17.90  CALL PHASE : RELEASE
+SIGNALLING COMPLETE : 2017-06-06  10:33:20.15  STAT STATE : IDLE
+ANSWER              : 2017-06-06  10:33:29.21  CLEAR CODE : 0000H
+CHARGING END        : 2017-06-06  10:33:49.77  CLEAR INFO : AIF_SS 0001H 0B2FH
+PAGING TIME         : 330                      CLEAR PART : SUB B
+EXT CLEAR CODE      : 0010H                    SIGNALLING : MS CC
+
+MGW TRACE           : OK
+
+EXTERNAL FORWARDING COUNTER : 0
+
+CALLING NUMBER      : I  919891005178                    
+CALLED NUMBER       : I  919911005325                    
+OUT PULSED NUMBER   : I  919911005325                    
+CONNECTED NUMBER    : I  919911005325                    
+ROAMING NUMBER      : N  9891732588                      
+ADDRESS NUMBER      : U  09911005325                     
+IN SERVICE KEY      :    1         :OK  
+
+
+CARRIER SELECTION   : PRESUB
+
+
+OBJECT                SUBSCRIBER A              SUBSCRIBER B (TRACED)
+
+  IMSI              : 404043001011753           404040007254688 
+  IMEI              : 9115101501793178          3589940735276601
+  RADIO SYSTEM      : UMTS                      UMTS
+  CGR/BSC/PCM-TSL   :     /    /    -               /    /    -
+  MCC/MNC           : 404 /04                   404 /04  
+  LAC/CI/CELL BAND  : 01001/08168/WCDMA         01001/40986/WCDMA
+  RNC ID            : 00001                     00001
+  MGW INDEX         : 84                        84
+  MGW NAME          : MSS01MGW04P01V01          MSS01MGW04P01V01
+  BNC CHAR          : IPv4                      IPv4
+  UPD INDEX/NAME    : 51 /RNC01POOL             51 /RNC01POOL
+  SPTD CODEC LIST   : UMTS AMR   / UMTS AMR 2   UMTS AMR   / UMTS AMR 2
+                      UMTS AMR WB               UMTS AMR WB
+  RAB ID            : 1                         1
+  MAX BIT RATE      : 12.2                      12.2
+  GRTD BIT RATE     : 4.75                      4.75
+  A LOCAL IP ADDRESS: 10.244.113.81
+  B LOCAL IP ADDRESS:                           10.244.113.113
+  PORT              : 35316                     44498
+  TDM TERMID        :                           
+  NORMAL CTX ID     : 520897878                 520897878
+  USED CODEC        : UMTS AMR 2                UMTS AMR 2
+  MODES LIST        : 4.75                      4.75
+                      5.90                      5.90
+                      7.95                      7.95
+                      12.20                     12.20
+
+  LOCATION NUMBER   : 919891730001              919891730001    
+  CHANNEL RATE      : FRP / HFR1 /              FRP / HFR1 /    
+  SPEECH VERSION    : FR3                       FR3      
+  PRIORITY          : 
+  MS CLASSMARK      : 
+  IP ADDRESS        : 10.223.0.35               10.223.0.90
+  PORT              : 65214                     65338
+  CTM TT CAPABILITY : NO                        NO
+
+ECHO CANCELLING PARAMETERS
+  RECEIVED IEC / OEC     : INCLUDED / INCLUDED
+  SENT IEC / OEC         : INCLUDED / INCLUDED
+
+END OF REPORT
+
