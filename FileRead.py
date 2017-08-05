@@ -38,7 +38,7 @@ for line in infile_read:
     elif trace_found and "END OF REPORT" not in line:
         infile_write.write(line)
     elif trace_found and "END OF REPORT" in line:
-        infile_write.write("END OF REPORT\n\n\n\n\n")
+        infile_write.write("END OF REPORT\r\n\r\n\r\n\r\n\r\n")
         trace_found = False
     elif "END OF REPORT":
         trace_found = False
